@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  circuit-breaker-js (v0.0.1)  [![npm package](https://img.shields.io/npm/v/npmtest-circuit-breaker-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-circuit-breaker-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-circuit-breaker-js.svg)](https://travis-ci.org/npmtest/node-npmtest-circuit-breaker-js)",
+    "description": "#### basic test coverage for  circuit-breaker-js (v0.0.1)  [![npm package](https://img.shields.io/npm/v/npmtest-circuit-breaker-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-circuit-breaker-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-circuit-breaker-js.svg)](https://travis-ci.org/npmtest/node-npmtest-circuit-breaker-js)",
     "devDependencies": {
         "circuit-breaker-js": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
